@@ -28,3 +28,7 @@ C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\obj\Debug\net8.0\refint\MyAPPMVC.dll
 C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\obj\Debug\net8.0\MyAPPMVC.pdb
 C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\obj\Debug\net8.0\MyAPPMVC.genruntimeconfig.cache
 C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\obj\Debug\net8.0\ref\MyAPPMVC.dll
+C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\obj\Debug\net8.0\MyAPPMVC.sourcelink.json
+C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\obj\Debug\net8.0\MyAPPMVC.csproj.AssemblyReference.cache
+C:\Arquivos .Net\Testes\MyAppAPI\MyAPPMVC\obj\Debug\net8.0\MyAPPMVC.csproj.CopyComplete

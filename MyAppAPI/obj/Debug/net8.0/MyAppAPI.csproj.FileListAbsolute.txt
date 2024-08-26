@@ -130,3 +130,5 @@ C:\Arquivos .Net\Testes\MyAppAPI\MyAppAPI\bin\Debug\net8.0\runtimes\win\lib\net6
 C:\Arquivos .Net\Testes\MyAppAPI\MyAppAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Arquivos .Net\Testes\MyAppAPI\MyAppAPI\obj\Debug\net8.0\MyAppAPI.csproj.AssemblyReference.cache
 C:\Arquivos .Net\Testes\MyAppAPI\MyAppAPI\obj\Debug\net8.0\MyAppAPI.csproj.CopyComplete
+C:\Arquivos .Net\Testes\MyAppAPI\MyAppAPI\obj\Debug\net8.0\MyAppAPI.sourcelink.json
+C:\Arquivos .Net\Testes\MyAppAPI\MyAppAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
